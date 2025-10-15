@@ -19,11 +19,12 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 40px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(135, 206, 250, 0.8); /* 파스텔 하늘색 */
     box-sizing: border-box;
     z-index: 10;
     display: flex;
     align-items: center;
+    backdrop-filter: blur(6px); /* 살짝 블러로 부드럽게 */
 }
 
 nav {
