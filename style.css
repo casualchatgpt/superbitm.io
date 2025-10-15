@@ -19,7 +19,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 40px;
-    background-color: rgba(135, 206, 250, 0.8); /* 파스텔 하늘색 */
+    background-color: rgba(135, 206, 250, 0.8); !important;
     box-sizing: border-box;
     z-index: 10;
     display: flex;
